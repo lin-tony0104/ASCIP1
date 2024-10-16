@@ -1,8 +1,4 @@
-#原始ASC_IP_LRU
-
-trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
-
-trace位置 "D:/all_Trace/ASC-IP/wiki2018"
+# 原始版本ASC_IP_LRU
 
 # 執行程式
 - python run.py
@@ -16,3 +12,8 @@ trace位置 "D:/all_Trace/ASC-IP/wiki2018"
 - ASC_IP_LRU.py : 繼承ASC_IP.py，改寫部分只有增加統計debug資訊的部分
 - lib/ASC_IP.py : 完整ASC_IP_LRU功能，會被引用來實現 ASC_IP_LRU和ASC_IP_LECAR
 
+
+# TRACE
+trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
+
+trace位置 "D:/all_Trace/ASC-IP/wiki2018"
