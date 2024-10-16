@@ -1,6 +1,6 @@
 #原始ASC_IP_LRU
 
-trace下載網址:
+trace下載網址:https://drive.google.com/file/d/17lv8Zd6DG1TyBdJw1WlGV25heeicDuYp/view?usp=sharing
 
 trace位置 "D:/all_Trace/ASC-IP/wiki2018"
 
