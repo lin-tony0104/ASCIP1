@@ -1,3 +1,5 @@
+#原始ASC_IP_LRU
+
 trace下載網址:
 
 trace位置 "D:/all_Trace/ASC-IP/wiki2018"
